@@ -7,6 +7,7 @@ I dati sono forniti in formato **CSV**, pronti per essere caricati in qualsiasi 
 ## Contenuto
 
 - [`superenalotto.csv`](./superenalotto.csv) — tutte le estrazioni, una riga per concorso.
+- [`sestine_vincenti_6.csv`](./sestine_vincenti_6.csv) — elenco delle sole sestine che hanno realizzato un **"6"** (jackpot), con data, montepremi e regione.
 
 ## Schema CSV
 
